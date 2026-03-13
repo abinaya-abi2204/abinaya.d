@@ -112,7 +112,7 @@ CGPA **8.02**
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/abinaya-abi2204/abinaya-abi2204/output/github-contribution-grid-snake-dark.svg"/>
