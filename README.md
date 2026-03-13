@@ -1,21 +1,151 @@
+# 🚀 Abinaya Shree D
 
-# 💫ABINAYA D
- 👩🏽‍💻 Student<br> 💻 Tech Freak<br> 🌐 Bridging the digital divide<br> ☕ Stay caffeinated
+### Software Developer | Backend & Full-Stack Enthusiast
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Abinaya D) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/HtTvbSye) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abinaya.abi__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abinaya D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abinayad2204@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abinaya-abi2204&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abinaya-abi2204&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abinaya-abi2204&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
+👩🏽‍💻 Computer Science Engineer passionate about building scalable applications, backend systems, and modern web platforms.
+🌐 Interested in **AI, blockchain applications, and full-stack development**.
+⚡ Experienced in building **REST APIs, backend services, and responsive web applications**.
+📈 Solved **150+ coding problems** and continuously improving in **DSA and system design**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abinaya-abi2204&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🧑‍💻 About Me
+
+* 🎓 **B.E Computer Science Engineering** – Alpha College of Engineering (CGPA: 8.02)
+* 💻 Backend developer focusing on **Java and REST API architecture**
+* 🌐 Experience in **full-stack web development**
+* 🚀 Currently working as a **Freelance Software Developer**
+* 📊 Passionate about **AI-powered applications and scalable systems**
+* 📍 Based in **Chennai, India**
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abinaya%20Shree-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/abinaya-d-ab818a31a)
+[![GitHub](https://img.shields.io/badge/GitHub-Abinaya%20Shree-black?style=for-the-badge\&logo=github)](https://github.com/abinaya-abi2204)
+[![Email](https://img.shields.io/badge/Email-abinayad2204@gmail.com-red?style=for-the-badge\&logo=gmail)](mailto:abinayad2204@gmail.com)
+
+---
+
+# 💻 Tech Stack
+
+### Programming Languages
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge\&logo=mysql)
+
+### Web Development
+
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
+![Express](https://img.shields.io/badge/Express.js-grey?style=for-the-badge\&logo=express)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge\&logo=postman)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge\&logo=visualstudiocode)
+
+---
+
+# 🚀 Projects
+
+## 🧠 AI Powered NFT Marketplace
+
+**Full-Stack Blockchain Application**
+
+* Developed a platform to **mint, trade and evaluate NFTs**
+* Implemented **AI-based NFT price prediction**
+* Built **secure REST APIs** for marketplace transactions
+* Integrated **chatbot assistance and automated email alerts**
+* Optimized backend services to improve **transaction performance**
+
+**Tech Used**
+
+React • Node.js • REST APIs • Blockchain • AI/ML
+
+---
+
+## 📚 Book Nest – Secure Backend System
+
+**Backend Architecture for an E-Commerce Platform**
+
+* Built backend services for **book marketplace**
+* Implemented **JWT Authentication and user management**
+* Developed **RESTful APIs for books, orders, and users**
+* Ensured **secure database integration and optimized API performance**
+
+**Tech Used**
+
+Java • REST APIs • MySQL • JWT Authentication
+
+---
+
+# 💼 Experience
+
+## Freelance Software Developer
+
+**2025 – Present**
+
+* Developed backend modules using **Java**
+* Designed scalable **RESTful APIs**
+* Integrated databases to improve **system efficiency**
+* Delivered production-ready backend features for applications
+
+---
+
+## Web Development Intern
+
+**Cybertracs Technologies & Research Pvt Ltd**
+
+Jul 2024 – Aug 2024
+
+* Developed responsive UI components using **HTML, CSS, React**
+* Integrated **REST APIs**
+* Debugged and optimized frontend modules
+* Improved **page load performance and UX**
+
+---
+
+# 🏆 Achievements
+
+🏅 **Cambridge BEC Preliminary – Passed with Merit**
+👩🏽‍💻 Solved **150+ problems on LeetCode**
+📡 **IEEE Member** – Alpha College of Engineering
+
+---
+
+# 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abinaya-abi2204\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abinaya-abi2204\&layout=compact\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=abinaya-abi2204\&theme=tokyonight)
+
+---
+
+# 📈 Current Focus
+
+* Mastering **Java + Data Structures & Algorithms**
+* Building **production-ready backend systems**
+* Developing **AI-powered applications**
+* Growing as a **full-stack software engineer**
+
+---
+
+⭐ *“Code. Build. Improve. Repeat.”*
+
+
+
+
