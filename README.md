@@ -1,117 +1,152 @@
-# 💻 Abinaya Shree D
+<!-- ================= CYBERPUNK HEADER ================= -->
 
-### Java Backend Developer | Software Engineer
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Abinaya%20Shree%20D&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-👩🏽‍💻 Computer Science Engineer passionate about **building scalable backend systems and modern web applications**.
-⚡ Strong interest in **Java development, REST APIs, and system architecture**.
-🌱 Currently focusing on **Java, Data Structures & Algorithms, and backend engineering**.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Full+Stack+Engineer;AI+%7C+Blockchain+Developer;Freelance+Software+Developer"/>
+</p>
 
 ---
 
 # 👩🏽‍💻 About Me
 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+
 🎓 **B.E Computer Science Engineering**
 Alpha College of Engineering – Chennai
-CGPA: **8.02**
+CGPA **8.02**
 
-💼 **Freelance Software Developer**
+💻 **Java Backend Developer**
 
-💡 Interests
+🚀 **Freelance Software Developer**
 
-* Backend Development
-* Java Application Development
-* API Engineering
-* Full Stack Web Development
-* Artificial Intelligence Applications
+🧠 Solved **150+ problems on LeetCode**
 
-📍 Based in **Chennai, India**
+🌱 Currently learning
+
+* Advanced **Java**
+* **System Design**
+* **Backend Architecture**
+
+📍 Chennai, India
 
 ---
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abinaya%20Shree-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/abinaya-d-ab818a31a)
+<p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-abinaya--abi2204-black?style=for-the-badge\&logo=github)](https://github.com/abinaya-abi2204)
+<a href="https://linkedin.com/in/abinaya-d-ab818a31a">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Email-abinayad2204@gmail.com-red?style=for-the-badge\&logo=gmail)](mailto:abinayad2204@gmail.com)
+<a href="mailto:abinayad2204@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/abinaya-abi2204">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
 
 ---
 
 # 💻 Tech Stack
 
-### Core Language
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman"/>
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+---
 
-### Programming
+# ⚡ Java Developer Skill Level
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+### Java
 
-### Web Development
+████████████████████████░░ 90%
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge\&logo=express)
+### Backend Development
 
-### Databases
+████████████████████░░░░ 80%
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
+### API Development
 
-### Tools
+████████████████████░░░░ 80%
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode)
+### Database
+
+██████████████████░░░░░░ 70%
+
+### Frontend
+
+██████████████░░░░░░░░░░ 60%
 
 ---
 
 # 📊 GitHub Statistics
 
-### 🟩 Contribution Graph
+<p align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abinaya-abi2204\&theme=github-dark)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=abinaya-abi2204&show_icons=true&theme=tokyonight"/>
 
----
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinaya-abi2204&layout=compact&theme=tokyonight"/>
 
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abinaya-abi2204\&show_icons=true\&theme=github_dark)
+</p>
 
 ---
 
-### 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=abinaya-abi2204\&theme=github-dark\&hide_border=true)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=abinaya-abi2204&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-### 💻 Most Used Languages (Java Focus)
+# 📈 Contribution Graph
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abinaya-abi2204\&layout=compact\&theme=github_dark)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abinaya-abi2204&theme=tokyo-night"/>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/abinaya-abi2204/abinaya-abi2204/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
 
 # 🏆 Achievements
 
-🏅 **Cambridge BEC Preliminary – Passed with Merit**
-👩🏽‍💻 Solved **150+ Problems on LeetCode**
+🏅 Cambridge **BEC Preliminary – Merit**
+
+👩🏽‍💻 **150+ LeetCode Problems Solved**
+
 📡 **IEEE Member – Alpha College of Engineering**
 
 ---
 
 # 🚀 Current Focus
 
-* Mastering **Java Backend Development**
-* Strengthening **Data Structures & Algorithms**
-* Building **scalable backend systems**
-* Growing as a **professional software engineer**
+✔ Java Backend Development
+✔ Data Structures & Algorithms
+✔ Scalable Backend Systems
+✔ Becoming a Professional Software Engineer
 
 ---
 
-⭐ *"Consistency in coding builds mastery."*
+<p align="center">
+
+⭐ **Code • Build • Improve • Repeat**
+
+</p>
+
+<!-- ================= FOOTER ================= -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+</p>
