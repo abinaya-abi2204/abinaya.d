@@ -1,103 +1,73 @@
-<!-- ================= CYBERPUNK HEADER ================= -->
+<!-- 🌸 CUTE DEV HEADER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Abinaya%20Shree%20D&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff9a9e,0:fad0c4,100:fbc2eb&height=220&section=header&text=Abinaya%20Shree%20D&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Developer;Full+Stack+Engineer;Freelance+Software+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=FF69B4&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Full+Stack+Engineer;Freelance+Developer"/>
 </p>
 
 ---
 
-# 👩🏽‍💻 About Me
+# 👩‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+<img align="right" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="260">
 
-🎓 **B.E Computer Science Engineering**  
-Alpha College of Engineering – Chennai  
-CGPA **8.02**
-
-💻 **Java Developer**  
-
-🚀 **Freelance Software Developer**  
-
-🧠 Solved **100+ problems on LeetCode**  
-
-🌱 Currently learning  
-• Advanced **Java & .NET**  
-• **System Design**  
-• **Backend Architecture**  
-
+🎓 B.E Computer Science Engineering  
+💻 Java Backend Developer  
+🚀 Freelance Developer  
+🧠 100+ LeetCode Problems  
 📍 Chennai, India  
 
+🌱 Learning:
+- Advanced **Java & .NET**
+- System Design
+- Backend Architecture  
+
 ---
 
-# 🌐 Connect With Me
+# 💖 Tech Stack
 
-<p>
-<a href="https://linkedin.com/in/abinaya-d-ab818a31a">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,dotnet,python,js,html,css,react,nodejs,mongodb,mysql,git"/>
+</p>
 
-<a href="mailto:abinayad2204@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+---
+
+# 📊 GitHub Stats (Auto Updates)
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abinaya-abi2204&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
+
+<img src="https://streak-stats.demolab.com?user=abinaya-abi2204&theme=radical"/>
+
+</p>
+
+---
+
+# 📌 My Projects (Auto Showcase)
+
+<p align="center">
+
+<a href="https://github.com/abinaya-abi2204">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=abinaya-abi2204&repo=nft&theme=radical"/>
 </a>
 
 <a href="https://github.com/abinaya-abi2204">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=abinaya-abi2204&repo=NFT-MARKETPLACE04&theme=radical"/>
 </a>
+
 </p>
 
 ---
 
-# 💻 Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,dotnet,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman"/>
-</p>
-
----
-
-# ⚡ Java Developer Skill Level
-
-### Java
-████████████████████████░░ 90%
-
-### Backend Development
-████████████████████░░░░ 80%
-
-### API Development
-████████████████████░░░░ 80%
-
-### Database
-██████████████████░░░░░░ 70%
-
-### Frontend
-██████████████░░░░░░░░░░ 60%
-
----
-# 🧊 3D Contribution Cube
+# 🌸 Cute Coding Vibes
 
 <p align="center">
-<img src="https://github.com/marketplace/actions/github-profile-3d-contrib/raw/main/profile-3d-contrib/profile-night-view.svg"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300">
 </p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/abinaya-abi2204/abinaya-abi2204/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-# 🏆 Achievements
-
-🏅 Cambridge **BEC Preliminary – Merit**  
-👩🏽‍💻 **100+ LeetCode Problems Solved**  
-📡 **IEEE Member – Alpha College of Engineering**
 
 ---
 
@@ -105,13 +75,31 @@ CGPA **8.02**
 
 ✔ Java Backend Development  
 ✔ Data Structures & Algorithms  
-✔ Scalable Backend Systems  
 ✔ Upskilling in **Advanced .NET**  
-✔ Becoming a Professional Software Engineer  
+✔ Building Real-World Projects  
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/abinaya-d-ab818a31a">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:abinayad2204@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+</p>
 
 ---
 
 <p align="center">
-⭐Code • Build • Improve • Repeat
+💖 *Code • Learn • Grow • Repeat*
 </p>
 
+<!-- 🌸 FOOTER -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=fbc2eb,0:a6c1ee&height=120&section=footer"/>
+</p>
