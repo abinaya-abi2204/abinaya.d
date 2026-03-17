@@ -1,11 +1,11 @@
-<!-- 🌸 CUTE DEV HEADER -->
+<!-- 🌸 SOFT HEADER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff9a9e,0:fad0c4,100:fbc2eb&height=220&section=header&text=Abinaya%20Shree%20D&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=fbc2eb,0:a6c1ee&height=220&section=header&text=Abinaya%20Shree%20D&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=FF69B4&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Full+Stack+Engineer;Freelance+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=FF69B4&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Full+Stack+Engineer;Freelance+Developer"/>
 </p>
 
 ---
@@ -16,14 +16,14 @@
 
 🎓 B.E Computer Science Engineering  
 💻 Java Backend Developer  
-🚀 Freelance Developer  
-🧠 100+ LeetCode Problems  
+🚀 Freelance Software Developer  
+🧠 100+ LeetCode Problems Solved  
 📍 Chennai, India  
 
-🌱 Learning:
-- Advanced **Java & .NET**
-- System Design
-- Backend Architecture  
+🌱 Currently Learning  
+• Advanced **Java & .NET**  
+• **System Design**  
+• **Backend Architecture**  
 
 ---
 
@@ -35,39 +35,39 @@
 
 ---
 
-# 📊 GitHub Stats (Auto Updates)
+# 📊 GitHub Stats (Live)
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abinaya-abi2204&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abinaya-abi2204&show_icons=true&theme=rose_pine&count_private=true&include_all_commits=true"/>
 
-<img src="https://streak-stats.demolab.com?user=abinaya-abi2204&theme=radical"/>
+<img src="https://streak-stats.demolab.com?user=abinaya-abi2204&theme=rose_pine"/>
 
 </p>
 
 ---
 
-# 📌 My Projects (Auto Showcase)
+# 📌 My Projects
 
 <p align="center">
 
 <a href="https://github.com/abinaya-abi2204">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abinaya-abi2204&repo=nft&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=abinaya-abi2204&repo=nft&theme=rose_pine"/>
 </a>
 
 <a href="https://github.com/abinaya-abi2204">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abinaya-abi2204&repo=NFT-MARKETPLACE04&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=abinaya-abi2204&repo=NFT-MARKETPLACE04&theme=rose_pine"/>
 </a>
 
 </p>
 
 ---
 
-# 🌸 Cute Coding Vibes
+# 🌸 Achievements
 
-<p align="center">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300">
-</p>
+🏅 Cambridge BEC Preliminary – Merit  
+👩‍💻 150+ LeetCode Problems  
+📡 IEEE Member  
 
 ---
 
@@ -95,7 +95,7 @@
 ---
 
 <p align="center">
-💖 *Code • Learn • Grow • Repeat*
+💖 *Code. Build. Glow. Repeat.*
 </p>
 
 <!-- 🌸 FOOTER -->
