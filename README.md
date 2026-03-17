@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Full+Stack+Engineer;AI+%7C+Blockchain+Developer;Freelance+Software+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Full+Stack+Engineer;Blockchain+Developer;Freelance+Software+Developer"/>
 </p>
 
 ---
@@ -14,8 +14,8 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 
-🎓 **B.E Computer Science Engineering**
-Alpha College of Engineering – Chennai
+🎓 **B.E Computer Science Engineering**  
+Alpha College of Engineering – Chennai  
 CGPA **8.02**
 
 💻 **Java Backend Developer**
@@ -24,13 +24,12 @@ CGPA **8.02**
 
 🧠 Solved **100+ problems on LeetCode**
 
-🌱 Currently learning
+🌱 Currently learning  
+• Advanced **Java & .NET**  
+• **System Design**  
+• **Backend Architecture**
 
-* Advanced **Java and .NET**
-* **System Design**
-* **Backend Architecture**
-
-📍 Chennai, India
+📍 Chennai, India  
 
 ---
 
@@ -57,7 +56,7 @@ CGPA **8.02**
 # 💻 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=java,dotnet,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman"/>
 </p>
 
 ---
@@ -65,23 +64,18 @@ CGPA **8.02**
 # ⚡ Java Developer Skill Level
 
 ### Java
-
 ████████████████████████░░ 90%
 
 ### Backend Development
-
 ████████████████████░░░░ 80%
 
 ### API Development
-
 ████████████████████░░░░ 80%
 
 ### Database
-
 ██████████████████░░░░░░ 70%
 
 ### Frontend
-
 ██████████████░░░░░░░░░░ 60%
 
 ---
@@ -98,43 +92,33 @@ CGPA **8.02**
 
 ---
 
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abinaya-abi2204&theme=tokyo-night"/>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/abinaya-abi2204/abinaya-abi2204/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
 # 🏆 Achievements
 
-🏅 Cambridge **BEC Preliminary – Merit**
-
-👩🏽‍💻 **150+ LeetCode Problems Solved**
-
+🏅 Cambridge **BEC Preliminary – Merit**  
+👩🏽‍💻 **150+ LeetCode Problems Solved**  
 📡 **IEEE Member – Alpha College of Engineering**
 
 ---
 
 # 🚀 Current Focus
 
-✔ Java Backend Development
-✔ Data Structures & Algorithms
-✔ Scalable Backend Systems
-✔ Becoming a Professional Software Engineer
+✔ Java Backend Development  
+✔ Data Structures & Algorithms  
+✔ Scalable Backend Systems  
+✔ Becoming a Professional Software Engineer  
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/abinaya-abi2204/abinaya-abi2204/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
 
 ---
 
 <p align="center">
-
 ⭐ **Code • Build • Improve • Repeat**
-
 </p>
 
 <!-- ================= FOOTER ================= -->
