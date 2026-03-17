@@ -1,11 +1,11 @@
 <!-- ================= CYBERPUNK HEADER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Abinaya%20Shree%20D&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Abinaya%20Shree%20D&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Full+Stack+Engineer;Blockchain+Developer;Freelance+Software+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Full+Stack+Engineer;Freelance+Software+Developer"/>
 </p>
 
 ---
@@ -18,16 +18,16 @@
 Alpha College of Engineering – Chennai  
 CGPA **8.02**
 
-💻 **Java Backend Developer**
+💻 **Java Backend Developer**  
 
-🚀 **Freelance Software Developer**
+🚀 **Freelance Software Developer**  
 
-🧠 Solved **100+ problems on LeetCode**
+🧠 Solved **100+ problems on LeetCode**  
 
 🌱 Currently learning  
 • Advanced **Java & .NET**  
 • **System Design**  
-• **Backend Architecture**
+• **Backend Architecture**  
 
 📍 Chennai, India  
 
@@ -36,7 +36,6 @@ CGPA **8.02**
 # 🌐 Connect With Me
 
 <p>
-
 <a href="https://linkedin.com/in/abinaya-d-ab818a31a">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
@@ -48,7 +47,6 @@ CGPA **8.02**
 <a href="https://github.com/abinaya-abi2204">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-
 </p>
 
 ---
@@ -84,10 +82,26 @@ CGPA **8.02**
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=abinaya-abi2204&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=abinaya-abi2204&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinaya-abi2204&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://streak-stats.demolab.com?user=abinaya-abi2204&theme=tokyonight&hide_border=true"/>
 
+</p>
+
+---
+
+# 🧊 3D Contribution Cube
+
+<p align="center">
+<img src="https://github.com/marketplace/actions/github-profile-3d-contrib/raw/main/profile-3d-contrib/profile-night-view.svg"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/abinaya-abi2204/abinaya-abi2204/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -105,15 +119,8 @@ CGPA **8.02**
 ✔ Java Backend Development  
 ✔ Data Structures & Algorithms  
 ✔ Scalable Backend Systems  
+✔ Upskilling in **Advanced .NET**  
 ✔ Becoming a Professional Software Engineer  
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/abinaya-abi2204/abinaya-abi2204/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
 
 ---
 
