@@ -22,11 +22,11 @@ CGPA **8.02**
 
 🚀 **Freelance Software Developer**
 
-🧠 Solved **150+ problems on LeetCode**
+🧠 Solved **100+ problems on LeetCode**
 
 🌱 Currently learning
 
-* Advanced **Java**
+* Advanced **Java and .NET**
 * **System Design**
 * **Backend Architecture**
 
@@ -94,14 +94,6 @@ CGPA **8.02**
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinaya-abi2204&layout=compact&theme=tokyonight"/>
 
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=abinaya-abi2204&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
