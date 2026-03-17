@@ -9,8 +9,7 @@
 ---
 
 #  About Me
-
-<img align="right" src="https://media.giphy.com/media/.gif" width="300">
+ <img align="right" src="https://i.pinimg.com/originals/4d/67/0e/4d670e6307fb44c4d4b6d8d14a5661fa.gif" width="300">
 
  **B.E Computer Science Engineering**  
 Alpha College of Engineering – Chennai  
@@ -19,13 +18,7 @@ CGPA **8.02**
  **Java Backend Developer**  
 
  **Freelance Software Developer**  
-
- Solved **100+ problems on LeetCode**  
-
- Currently learning  
-• Advanced **Java & .NET**  
-• **System Design**   
-
+ 
 Chennai, India  
 
 ---
@@ -38,7 +31,7 @@ Chennai, India
 
 ---
 
-# Java Developer Skill Level
+#  Developer Skill Level
 
 ### Java
 ████████████████████████░░ 90%
@@ -58,21 +51,27 @@ Chennai, India
 ---
 # Featured Projects
 
-<p align="center">
+🔹 **AI-Powered NFT Marketplace**  
+AI-based NFT valuation tool with price prediction using Machine Learning & Blockchain  
+🔗 https://github.com/abinaya-abi2204/nft  
 
-<a href="https://github.com/abinaya-abi2204/NFT-MARKETPLACE04">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abinaya-abi2204&repo=NFT-MARKETPLACE04&theme=radical"/>
-</a>
+---
 
-<a href="https://github.com/abinaya-abi2204/nft">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abinaya-abi2204&repo=nft&theme=radical"/>
-</a>
+🔹 **SaaS Analytics Dashboard**  
+Web-based dashboard for analyzing customer support metrics and performance  
+🔗 https://github.com/abinaya-abi2204/saas  
 
-<a href="https://github.com/abinaya-abi2204/booknest">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abinaya-abi2204&repo=booknest&theme=radical"/>
-</a>
+---
 
-</p>
+🔹 **BookStore E-Commerce App (MERN)**  
+Full-stack e-commerce web application for buying and managing books using MERN stack  
+🔗 https://github.com/abinaya-abi2204/bookstorenm  
+
+---
+
+🔹 **Netflix Backend System**  
+Scalable backend for a video streaming platform with secure APIs, authentication, watch history, and recommendation system  
+🔗 https://github.com/abinaya-abi2204/Netflix-backend  
 
 ---
 
