@@ -1,88 +1,84 @@
-<!-- 🌸 SOFT HEADER -->
+<!-- ================= CYBERPUNK HEADER ================= -->
+
+<h1 align="center"> Abinaya Shree D</h1>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=fbc2eb,0:a6c1ee&height=220&section=header&text=Abinaya%20Shree%20D&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=FF69B4&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Full+Stack+Engineer;Freelance+Developer"/>
+  <i>Java Developer • Full Stack Engineer • Freelance Software Developer</i>
 </p>
 
 ---
 
-# 👩‍💻 About Me
+#  About Me
 
-<img align="right" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="260">
+<img align="right" src="https://media.giphy.com/media/.gif" width="300">
 
-🎓 B.E Computer Science Engineering  
-💻 Java Backend Developer  
-🚀 Freelance Software Developer  
-🧠 100+ LeetCode Problems Solved  
-📍 Chennai, India  
+ **B.E Computer Science Engineering**  
+Alpha College of Engineering – Chennai  
+CGPA **8.02**
 
-🌱 Currently Learning  
+ **Java Backend Developer**  
+
+ **Freelance Software Developer**  
+
+ Solved **100+ problems on LeetCode**  
+
+ Currently learning  
 • Advanced **Java & .NET**  
-• **System Design**  
-• **Backend Architecture**  
+• **System Design**   
+
+Chennai, India  
 
 ---
 
-# 💖 Tech Stack
+#  Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,dotnet,python,js,html,css,react,nodejs,mongodb,mysql,git"/>
+<p>
+<img src="https://skillicons.dev/icons?i=java,dotnet,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats (Live)
+# Java Developer Skill Level
 
-<p align="center">
+### Java
+████████████████████████░░ 90%
 
-<img src="https://github-readme-stats.vercel.app/api?username=abinaya-abi2204&show_icons=true&theme=rose_pine&count_private=true&include_all_commits=true"/>
+### Backend Development
+████████████████████░░░░ 80%
 
-<img src="https://streak-stats.demolab.com?user=abinaya-abi2204&theme=rose_pine"/>
+### API Development
+████████████████████░░░░ 80%
 
-</p>
+### Database
+██████████████████░░░░░░ 70%
+
+### Frontend
+██████████████░░░░░░░░░░ 60%
 
 ---
-
-# 📌 My Projects
+# Featured Projects
 
 <p align="center">
 
-<a href="https://github.com/abinaya-abi2204">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abinaya-abi2204&repo=nft&theme=rose_pine"/>
+<a href="https://github.com/abinaya-abi2204/NFT-MARKETPLACE04">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=abinaya-abi2204&repo=NFT-MARKETPLACE04&theme=radical"/>
 </a>
 
-<a href="https://github.com/abinaya-abi2204">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abinaya-abi2204&repo=NFT-MARKETPLACE04&theme=rose_pine"/>
+<a href="https://github.com/abinaya-abi2204/nft">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=abinaya-abi2204&repo=nft&theme=radical"/>
+</a>
+
+<a href="https://github.com/abinaya-abi2204/booknest">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=abinaya-abi2204&repo=booknest&theme=radical"/>
 </a>
 
 </p>
 
 ---
 
-# 🌸 Achievements
+#  Connect With Me
 
-🏅 Cambridge BEC Preliminary – Merit  
-👩‍💻 150+ LeetCode Problems  
-📡 IEEE Member  
-
----
-
-# 🚀 Current Focus
-
-✔ Java Backend Development  
-✔ Data Structures & Algorithms  
-✔ Upskilling in **Advanced .NET**  
-✔ Building Real-World Projects  
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
+<p>
 <a href="https://linkedin.com/in/abinaya-d-ab818a31a">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
@@ -90,16 +86,32 @@
 <a href="mailto:abinayad2204@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+
+<a href="https://github.com/abinaya-abi2204">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 </p>
 
 ---
 
-<p align="center">
-💖 *Code. Build. Glow. Repeat.*
-</p>
+#  Achievements
 
-<!-- 🌸 FOOTER -->
+. Cambridge **BEC Preliminary – Merit**  
+. 100+ LeetCode Problems Solved**  
+. IEEE Member – Alpha College of Engineering
+
+---
+
+# Current Focus
+
+✔ Java Backend Development  
+✔ Data Structures & Algorithms  
+✔ Scalable Backend Systems  
+✔ Upskilling in **Advanced .NET**  
+✔ Becoming a Professional Software Engineer  
+
+---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=fbc2eb,0:a6c1ee&height=120&section=footer"/>
+⭐ Code • Build • Improve • Repeat
 </p>
