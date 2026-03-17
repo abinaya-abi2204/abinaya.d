@@ -18,7 +18,7 @@
 Alpha College of Engineering – Chennai  
 CGPA **8.02**
 
-💻 **Java Backend Developer**  
+💻 **Java Developer**  
 
 🚀 **Freelance Software Developer**  
 
@@ -77,19 +77,6 @@ CGPA **8.02**
 ██████████████░░░░░░░░░░ 60%
 
 ---
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=abinaya-abi2204&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
-
-<img height="170em" src="https://streak-stats.demolab.com?user=abinaya-abi2204&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🧊 3D Contribution Cube
 
 <p align="center">
@@ -109,7 +96,7 @@ CGPA **8.02**
 # 🏆 Achievements
 
 🏅 Cambridge **BEC Preliminary – Merit**  
-👩🏽‍💻 **150+ LeetCode Problems Solved**  
+👩🏽‍💻 **100+ LeetCode Problems Solved**  
 📡 **IEEE Member – Alpha College of Engineering**
 
 ---
@@ -125,7 +112,7 @@ CGPA **8.02**
 ---
 
 <p align="center">
-⭐ **Code • Build • Improve • Repeat**
+⭐Code • Build • Improve • Repeat
 </p>
 
 <!-- ================= FOOTER ================= -->
